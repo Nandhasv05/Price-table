@@ -1,0 +1,59 @@
+
+/<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div>
+        <h1>Q-SPIDER'S</h1>
+        <div class="content">
+        <div id="left">
+            <div class="left-top">
+                <h2>JAVA</h2>
+               
+            </div>
+            <div class="left-bottom">
+                <div><p><i class="fa-solid fa-check"></i>WEB TECHONOLGY</p>
+                    <p><i class="fa-solid fa-check"></i>DATA BASE(SQL)</p>
+                    <p><i class="fa-solid fa-check"></i>JAVA</p>
+                    <p><i class="fa-solid fa-check"></i>HIBERNATE</p>
+                    </div>
+                    <div class="btn1"><button>choose</button></div>
+            </div>
+        </div>
+        <div id="right">
+            <div class="right-top">                
+                <h2>PYTHON</h2>
+            </div>
+            <div class="right-bottom">     
+                <p> <i class="fa-solid fa-check"></i>WEB TECHONOLGY</p>
+                <p> <i class="fa-solid fa-check"></i>DATA BASE(SQL)</p> 
+                <p><i class="fa-solid fa-check"></i>PYTHON</p>
+                <p><i class="fa-solid fa-check"></i>DJANGO</p> 
+                
+            </div>
+            <div class="btn2"><button>choose</button></div>
+        </div>
+    </div>
+        <div id="center">
+            <div class="center-top">
+                <h2>FULL STACK</h2>
+            </div>
+            <div class="center-bottom">
+               <p><i class="fa-solid fa-check"></i>Frond-end</p>
+               <p><i class="fa-solid fa-check"></i>Back-end</p>
+               <p><i class="fa-solid fa-check"></i>Datebae</p>
+               <p><i class="fa-solid fa-check"></i>Frameworks</p>         
+            </div>
+            <div class="btn3"> <button>choose</button></div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
